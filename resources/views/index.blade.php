@@ -93,7 +93,7 @@
                             <div class="col-md-6 col-sm-12">
                                 <h1>Start your journey with our practical courses</h1>
                                 <h3>Our courses are built in partnership with technology leaders and are designed to
-                                    meet industry demands.So what are you waiting for? Enroll now and get up to 50% for
+                                    meet industry demands.So what are you waiting for? Enroll now and get up to 50% off for
                                     the first batch!</h3>
                                 <a href="#courses" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
                             </div>
