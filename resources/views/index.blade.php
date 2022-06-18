@@ -60,7 +60,7 @@
                 </ul>
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="https://api.whatsapp.com/message/GVO52CXLRCIFO1?autoload=1&app_absent=0"
+                    <li><a href="https://wa.me/message/GVO52CXLRCIFO1"
                             target="_blank"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
                 </ul>
             </div>
