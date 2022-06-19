@@ -240,7 +240,7 @@
                                             <h5>Duration: 6 Months</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <a href="{{ url('/forms') }}"><span>RS <del> 80,000</del> 40,000
+                                            <a href="{{ url('/forms') }}" disabled><span>RS <del> 80,000</del> 40,000
                                                 </span></del></a>
                                         </div>
                                     </div>
