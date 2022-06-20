@@ -148,7 +148,7 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>03</span>
-                        <h3>Best IT Institute</h3>
+                        <h3>Best IT Training Institute</h3>
                         <p>DK INSTITUTES is one of the best IT Training Institute in Pakistan that comes up with amazing
                             courses, trainings, jobs, events and much more. We are the introducers to many IT
                             trends, courses, and certifications in Pakistan.</p>
