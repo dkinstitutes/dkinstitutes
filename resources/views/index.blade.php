@@ -129,7 +129,7 @@
                     <div class="feature-thumb">
                         <span>01</span>
                         <h3>Trending Courses</h3>
-                        <p>We are providing trending courses in Information technology development and designing. Our
+                        <p>We are providing trending courses in information technology development and designing. Our
                             aim is to work with international software compnanies to enhance the power of youngsters in
                             this digital age</p>
                     </div>
@@ -149,7 +149,7 @@
                     <div class="feature-thumb">
                         <span>03</span>
                         <h3>Best IT Institute</h3>
-                        <p>DK INSTITUTES is one of the best IT Training institute in Pakistan that comes up with amazing
+                        <p>DK INSTITUTES is one of the best IT Training Institute in Pakistan that comes up with amazing
                             courses, trainings, jobs, events and much more. We are the introducers to many IT
                             trends, courses, and certifications in Pakistan.</p>
                     </div>
