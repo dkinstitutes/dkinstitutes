@@ -575,7 +575,7 @@
                             <h2>Adress</h2>
                         </div>
                         <address>
-                           <a href="https://goo.gl/maps/M433mG1uZ5SUc1CPA"> <p>Ghazi Road,Peer Qatal DG Khan</p></a>
+                           <a href="https://goo.gl/maps/M433mG1uZ5SUc1CPA"> <p>Ghazi Road, Peer Qatal, Churhatta Chowk-DG Khan</p></a>
                         </address>
 
                         <ul class="social-icon">
