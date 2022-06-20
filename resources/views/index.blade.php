@@ -575,7 +575,7 @@
                             <h2>Adress</h2>
                         </div>
                         <address>
-                            <p>Dera Ghazi Khan - Punjab Pakistan</p>
+                           <a href=""> <p>Ghazi Road, Peer Qatal, Churhatta Chowk Dera Ghazi Khan - Punjab Pakistan</p></a>
                         </address>
 
                         <ul class="social-icon">
