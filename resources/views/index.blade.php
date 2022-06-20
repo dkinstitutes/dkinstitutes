@@ -138,7 +138,7 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>02</span>
-                        <h3>Premium WhatsApp support</h3>
+                        <h3>Premium WhatsApp Support</h3>
                         <p>Our premium WhatsApp support will enable students to learn in an efficient way they can ask
                             questions and discuss thier problems in group-chat our instructors will be available for
                             thier help AnyWhere! AnyTime!</p>
@@ -148,10 +148,10 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>03</span>
-                        <h3>Leading IT Institute</h3>
-                        <p>DK INSTITUTES is one of the best IT institute in southern punjab that comes up with amazing
-                            courses, trainings, jobs, events and much more. We are the introducers to numerous IT
-                            trends, courses, and certifications in southern punjab.</p>
+                        <h3>Best IT Institute</h3>
+                        <p>DK INSTITUTES is one of the best IT Training institute in Pakistan that comes up with amazing
+                            courses, trainings, jobs, events and much more. We are the introducers to many IT
+                            trends, courses, and certifications in Pakistan.</p>
                     </div>
                 </div>
 
