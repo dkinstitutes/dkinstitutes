@@ -95,7 +95,7 @@
                                 <h3>Our courses are built in partnership with technology leaders and are designed to
                                     meet industry demands.So what are you waiting for? Enroll now and get up to 50% off for
                                     the first batch!</h3>
-                                <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll" target="_blank">Enroll Now!</a>
+                                <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
                             </div>
                         </div>
                     </div>
