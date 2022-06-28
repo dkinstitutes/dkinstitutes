@@ -95,7 +95,7 @@
                                 <h3>Our courses are built in partnership with technology leaders and are designed to
                                     meet industry demands.So what are you waiting for? Enroll now and get up to 50% off for
                                     the first batch!</h3>
-                                <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
+                                <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll" target="_blank">Enroll Now!</a>
                             </div>
                         </div>
                     </div>
@@ -233,7 +233,10 @@
                                             <img src="images/full stack4.jpeg" class="img-responsive" alt="">
                                         </div>
                                         <div class="courses-detail">
-                                            <h3>FULL STACK DEVELOPMENT</h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FULL STACK DEVELOPMENT</a></h3>
+                                            <p>Full stack engineers are highly experts in the world of websites and web
+                                                applications.They are highly expert in coding for both back end and
+                                                front end with database technologies.</p>
                                             <h5>Duration: 6 Months</h5>
                                         </div>
                                         <div class="courses-price"><span>RS <del> 80,000</del> 40,000
@@ -248,10 +251,15 @@
                                 <div class="courses-thumb">
                                     <div class="courses-top">
                                         <div class="courses-image">
-                                            <img src="images/full stack1.jpeg" class="img-responsive" alt="full stack">
+                                            <img src="images/full stack1.jpeg" class="img-responsive" alt="">
                                         </div>
+
+
                                         <div class="courses-detail">
-                                            <h3>FRONT END DEVELOPMENT</h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FRONT END DEVELOPMENT</a></h3>
+                                            <p>Front end developers design and build the user interface of websites and
+                                                web-based apps.It includes all technologies of building modern and
+                                                responsive front-end of websites</p>
                                                 <h5>Duration: 2.5 Months</h5>
                                         </div>
                                         <div class="courses-price"><span>RS <del> 24,000</del> 18,000
@@ -272,10 +280,14 @@
 
 
                                         <div class="courses-detail">
-                                            <h3>MERN STACK DEVELOPMENT</h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MERN STACK DEVELOPMENT</a></h3>
+                                            <p>A MERN stack developer is an expert in MongoDB, Express, React and Node.
+                                                They use these technologies to handle front-end, back-end and database
+                                                operations</p>
                                                 <h5>Duration: 2.5 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 28,000</del> 22,000
+                                        <div class="courses-price">
+                                            <span>RS <del> 28,000</del> 22,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -291,12 +303,16 @@
                                             <img src="images/mean stack.png" class="img-responsive" alt="mean stack">
                                         </div>
                                         <div class="courses-detail">
-                                            <h3>MEAN STACK DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MEAN STACK DEVELOPMENT</a></h3>
+                                            <p>MEAN Stack Developer is a software engineer who is specialized in
+                                                developing modern websites web applications with mongoDB, Express JS,
+                                                Angular and Node JS</p>
                                             <h5>Duration: 2.5 Months</h5>
                                         </div>
 
 
-                                        <div class="courses-price free"><span>RS <del> 28,000</del> 22,000
+                                        <div class="courses-price free">
+                                            <span>RS <del> 28,000</del> 22,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -314,10 +330,13 @@
 
 
                                         <div class="courses-detail">
-                                            <h3>WORDPRESS DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">WORDPRESS DEVELOPMENT</a></h3>
+                                            <p>A WordPress developer is a professional who works with the basic infrastructure of the WordPress platform, to improve WordPress itself, or to create entirely new websites
+                                            </p>
                                             <h5>Duration: 1.5 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 18,000</del> 16,000
+                                        <div class="courses-price">
+                                            <span>RS <del> 18,000</del> 16,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -336,10 +355,13 @@
 
 
                                         <div class="courses-detail">
-                                            <h3>SEARCH ENGINE OPTIMIZATION</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">SEARCH ENGINE OPTIMIZATION</a></h3>
+                                            <p>An SEO expert performs optimization across a search engine to ensure search results are relevant to create a positive user experience,lead volume and growing traffic
+                                            </p>
                                             <h5>Duration: 1.5 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 18,000</del> 16,000
+                                        <div class="courses-price">
+                                            <span>RS <del> 18,000</del> 16,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -381,9 +403,12 @@
 
 
                                     <div class="courses-detail">
-                                        <h3>FREELANCING</h3>
+                                        <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FREELANCING</a></h3>
+                                        <p>The purpose of this training will makes you capable to earn from your skills
+                                            at home. This course will cover all the aspects of famous freelancing
+                                            marketplaces.
                                         <h5>Duration: 1.5 Months</h5>
-
+                                        </p>
                                     </div>
                                     <div class="courses-price"><span>RS <del>18,000 </del> 12,000
                                             </span></del>
