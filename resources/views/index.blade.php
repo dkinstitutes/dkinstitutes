@@ -499,7 +499,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro1.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro6.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>Tehreem Fatima</h4>
