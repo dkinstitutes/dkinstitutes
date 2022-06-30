@@ -505,7 +505,7 @@
                                     <h4>Tehreem Fatima</h4>
                                     <span>Wordpress developer</span>
                                 </div>
-                                <p>I had the experience of doing front end development course from dk Institutes
+                                <p>I had the experience of doing wordpress development course from dk Institutes.
                                     Instructor is a very professional and have great communication skills.</p>
                                 <div class="tst-rating">
                                     <i class="fa fa-star"></i>
