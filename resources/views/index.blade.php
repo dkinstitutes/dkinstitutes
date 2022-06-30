@@ -442,7 +442,7 @@
                                 </div>
                                 <div class="tst-author">
                                     <h4>AWAIS KHAN</h4>
-                                    <span>Full Stack Developer</span>
+                                    <span>Full stack developer</span>
                                 </div>
                                 <p>Trying something new is exciting! Thanks for the amazing full stack development
                                     course and the great instructor who was able to make it interesting.</p>
@@ -463,7 +463,7 @@
                                 </div>
                                 <div class="tst-author">
                                     <h4>ALI HAMZA</h4>
-                                    <span>Front End Developer</span>
+                                    <span>Front end developer</span>
                                 </div>
                                 <p>You really do help young creative minds to get quality education and professional job
                                     search assistance. I’d recommend it to everyone!</p>
@@ -484,7 +484,7 @@
                                 </div>
                                 <div class="tst-author">
                                     <h4>UMAIR BILAL</h4>
-                                    <span>MERN Stack Developer</span>
+                                    <span>MERN stack developer</span>
                                 </div>
                                 <p>Sir is very corporative, don't waste your time anywhere else, join dk if you want to learn real skills and earn</p>
                                 <div class="tst-rating">
@@ -503,7 +503,7 @@
                                 </div>
                                 <div class="tst-author">
                                     <h4>Tehreem Fatima</h4>
-                                    <span>Front End Developer</span>
+                                    <span>Wordpress developer</span>
                                 </div>
                                 <p>I had the experience of doing front end development course from dk Institutes
                                     Instructor is a very professional and have great communication skills.</p>
