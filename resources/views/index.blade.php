@@ -438,7 +438,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/rev.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro2.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>AWAIS KHAN</h4>
@@ -459,7 +459,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/rev.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro3.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>ALI HAMZA</h4>
@@ -480,14 +480,13 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/rev.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro4.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>UMAIR BILAL</h4>
                                     <span>MERN Stack Developer</span>
                                 </div>
-                                <p>I have done my mern stack development course from dk Institutes. Our instructor
-                                    friendly behavior make me to get more interested in my course</p>
+                                <p>Sir is very corporative, don't waste your time anywhere else, join dk if you want to learn real skills and earn</p>
                                 <div class="tst-rating">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
@@ -500,14 +499,14 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/female pro.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro1.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
-                                    <h4>NOSHEEN AKBAR</h4>
+                                    <h4>Tehreem Fatima</h4>
                                     <span>Front End Developer</span>
                                 </div>
                                 <p>I had the experience of doing front end development course from dk Institutes
-                                    Instructor is a very professional and have great communication skill.</p>
+                                    Instructor is a very professional and have great communication skills.</p>
                                 <div class="tst-rating">
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
