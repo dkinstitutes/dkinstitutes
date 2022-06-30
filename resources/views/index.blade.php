@@ -459,7 +459,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro3.jpg" class="img-responsive" alt="">
+                                    <img src="images/pro5.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>ALI HAMZA</h4>
