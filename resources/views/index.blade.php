@@ -239,7 +239,7 @@
                                                 front end with database technologies.</p>
                                             <h5>Duration: 6 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 80,000</del> 40,000
+                                        <div class="courses-price"><span>RS <del> 80,000</del> 35,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -262,7 +262,7 @@
                                                 responsive front-end of websites</p>
                                                 <h5>Duration: 2.5 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 24,000</del> 18,000
+                                        <div class="courses-price"><span>RS <del> 24,000</del> 16,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -287,7 +287,7 @@
                                                 <h5>Duration: 2.5 Months</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 28,000</del> 22,000
+                                            <span>RS <del> 28,000</del> 20,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -312,7 +312,7 @@
 
 
                                         <div class="courses-price free">
-                                            <span>RS <del> 28,000</del> 22,000
+                                            <span>RS <del> 28,000</del> 20,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -336,7 +336,7 @@
                                             <h5>Duration: 1.5 Months</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 18,000</del> 16,000
+                                            <span>RS <del> 18,000</del> 14,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -361,7 +361,7 @@
                                             <h5>Duration: 1.5 Months</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 18,000</del> 16,000
+                                            <span>RS <del> 18,000</del> 14,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -410,7 +410,7 @@
                                         <h5>Duration: 1.5 Months</h5>
                                         </p>
                                     </div>
-                                    <div class="courses-price"><span>RS <del>18,000 </del> 12,000
+                                    <div class="courses-price"><span>RS <del>18,000 </del> 10,000
                                             </span></del>
                                     </div>
                                 </div>
