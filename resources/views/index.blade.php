@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="DK INTITUTES is one of the best IT training Institute in DG Khan Punjab Pakistan that comes up with best IT trainings, jobs, Events and much more. DK INSTITUTES is the first priority of students who want to learn skills and earn money online">
    <meta name="keywords" content="best IT Training Institute in pakistan, No1 IT Training institute in pakistan,full stack development, MERN Stack, Web Development with PHP-Laravel or Python, HTML, CSS, SEO, Digital Marketing, Graphics, Corel Draw, Adobe Photoshop, Illustrator, CCNA, CCNP, MCSE" />
-   <meta name="author" content="DK INSTITUTES - DILAWAR KHAN" />
+   <meta name="author" content="DK INSTITUTES - DILAWAR KHAN"/>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
@@ -81,7 +81,7 @@
                                 <h1>Welcome to DK INSTITUTES</h1>
                                 <h3>Our courses are designed to fit in your career supporting all-round with latest
                                     technologies of Information technology developement and designing.</h3>
-                                <a href="#feature" class="section-btn btn btn-default smoothScroll">Discover more</a>
+                                    <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                                 <h3>Our courses are built in partnership with technology leaders and are designed to
                                     meet industry demands.So what are you waiting for? Enroll now and get up to 50% off for
                                     the first batch!</h3>
-                                <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
+                                    <a href="#feature" class="section-btn btn btn-default smoothScroll">Discover more</a>
                             </div>
                         </div>
                     </div>
