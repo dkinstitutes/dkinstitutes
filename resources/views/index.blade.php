@@ -138,8 +138,8 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>02</span>
-                        <h3>Premium WhatsApp Support</h3>
-                        <p>Our premium WhatsApp support will enable students to learn in an efficient way they can ask
+                        <h3>24H Support</h3>
+                        <p>Our 24 hours support will enable students to learn in an efficient way they can ask
                             questions and discuss thier problems in group-chat our instructors will be available for
                             thier help AnyWhere! AnyTime!</p>
                     </div>
