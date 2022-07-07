@@ -139,7 +139,7 @@
                     <div class="feature-thumb">
                         <span>02</span>
                         <h3>24H Support</h3>
-                        <p>Our 24 hours support will enable students to learn in an efficient way they can ask
+                        <p>Our 24 hours WhatsApp support will enable students to learn in an efficient way they can ask
                             questions and discuss thier problems in group-chat our instructors will be available for
                             thier help AnyWhere! AnyTime!</p>
                     </div>
