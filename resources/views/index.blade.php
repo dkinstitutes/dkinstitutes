@@ -8,8 +8,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="DK INTITUTES is one of the best IT training Institute in DG Khan Punjab Pakistan that comes up with best IT trainings, jobs, Events and much more. DK INSTITUTES is the first priority of students who want to learn skills and earn money online">
-   <meta name="keywords" content="best IT Training Institute in pakistan, No1 IT Training institute in pakistan,full stack development, MERN Stack, Web Development with PHP-Laravel or Python, HTML, CSS, SEO, Digital Marketing, Graphics, Corel Draw, Adobe Photoshop, Illustrator, CCNA, CCNP, MCSE" />
-   <meta name="author" content="DK INSTITUTES - DILAWAR KHAN"/>
+    <meta name="keywords" content="best IT Training Institute in pakistan, No1 IT Training institute in pakistan,full stack development, MERN Stack, Web Development with PHP-Laravel or Python, HTML, CSS, SEO, Digital Marketing, Graphics, Corel Draw, Adobe Photoshop, Illustrator, CCNA, CCNP, MCSE" />
+    <meta name="author" content="DK INSTITUTES - DILAWAR KHAN"/>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/owl.carousel.css">
