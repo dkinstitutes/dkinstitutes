@@ -49,7 +49,7 @@
             </div>
 
             <!-- MENU LINKS -->
-            <div class="collapse navbar-collapse">
+            <div class="collapse navbar-collapse" style="border-radius: 10px">
                 <ul class="nav navbar-nav navbar-nav-first">
                     <li><a href="#top" class="smoothScroll">Home</a></li>
                     <li><a href="#about" class="smoothScroll">About</a></li>

@@ -307,13 +307,11 @@
   .custom-navbar .nav li a:hover {
     background-color: #29ca8e;
     color: #ffffff;
-    border-radius: 10px;
   }
 
   .custom-navbar .nav li.active > a {
     background-color: #29ca8e;
     color: #ffffff;
-    border-radius: 10px;
 
   }
 
