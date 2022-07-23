@@ -49,8 +49,8 @@
             </div>
 
             <!-- MENU LINKS -->
-            <div class="collapse navbar-collapse" style="border-radius: 10px">
-                <ul class="nav navbar-nav navbar-nav-first">
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-nav-first" style="border-radius: 10px">
                     <li><a href="#top" class="smoothScroll">Home</a></li>
                     <li><a href="#about" class="smoothScroll">About</a></li>
                     <li><a href="#courses" class="smoothScroll">Courses</a></li>
