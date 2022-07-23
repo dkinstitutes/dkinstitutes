@@ -45,7 +45,7 @@
                 </button>
 
                 <!-- lOGO TEXT HERE -->
-                <a href="#top" class="navbar-brand">DK institutes</a>
+                <a href="#top" class="navbar-brand">DK INSTITUTES</a>
             </div>
 
             <!-- MENU LINKS -->
