@@ -45,7 +45,7 @@
                 </button>
 
                 <!-- lOGO TEXT HERE -->
-                <a href="#top" class="navbar-brand">DK INSTITUTES</a>
+                <a href="#top" class="navbar-brand" style="color: #29ca8e">DK INSTITUTES</a>
             </div>
 
             <!-- MENU LINKS -->
