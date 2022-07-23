@@ -25,7 +25,7 @@ use App\Http\Controllers\routescontroller;
 
 Route::get("/",[routescontroller::class,"index"]);
 
-Route::get("/forms",[routescontroller::class,"forms"]);
+Route::get("/fee",[routescontroller::class,"fee"]);
 
 Route::post("/thank",[routescontroller::class,"thank"]);
 

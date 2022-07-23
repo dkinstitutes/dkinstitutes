@@ -13,30 +13,8 @@ class routescontroller extends Controller
     }
 
 
-     public function forms(){
-         return view('forms');
+     public function fee(){
+         return view('fee');
     }
 
-
-     public function thank(Request $request){
-
-        $data = $request->all();
-
-        $stud = new Student();
-
-        $stud->Name = $data["name"];
-        $stud->City = $data["city"];
-        $stud->Adress = $data["adress"];
-        $stud->CNIC = $data["cnic"];
-        $stud->Birthday = $data["birthday"];
-        $stud->Email = $data["email"];
-        $stud->Phone = $data["phone"];
-        $stud->Subject = $data["subject"];
-
-        $stud->save();
-
-
-
-         return view('thank');
-    }
 }
