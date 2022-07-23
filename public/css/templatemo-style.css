@@ -304,16 +304,6 @@
     background-color: transparent;
   }
 
-  .custom-navbar .nav li a:hover {
-    background-color: #29ca8e;
-    color: #ffffff;
-  }
-
-  .custom-navbar .nav li.active > a {
-    background-color: #29ca8e;
-    color: #ffffff;
-
-  }
 
   .custom-navbar .navbar-toggle {
     border: none;
