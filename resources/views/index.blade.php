@@ -164,7 +164,7 @@
 
                 <div class="col-md-6 col-sm-12">
                     <div class="about-info">
-                        <h2>Start your journey to a better life with online practical courses</h2>
+                        <h2>Start your journey to a better life with our latest practical courses</h2>
 
                         <figure>
                             <span><i class="fa fa-users"></i></span>
@@ -232,11 +232,11 @@
                                             <img src="images/full stack4.jpeg" class="img-responsive" alt="">
                                         </div>
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FULL STACK DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">Full Stack Development</a></h3>
                                             <p>Full stack engineers are highly experts in the world of websites and web
                                                 applications.They are highly expert in coding for both back end and
                                                 front end with database technologies.</p>
-                                            <h5>Duration: 6 Months</h5>
+                                            <h5>Duration: 3 Months</h5>
                                         </div>
                                         <div class="courses-price"><span>RS <del> 60,000</del> 30,000
                                                 </span></del>
@@ -255,13 +255,13 @@
 
 
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FRONT END DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">Web Development</a></h3>
                                             <p>Front end developers design and build the user interface of websites and
                                                 web-based apps.It includes all technologies of building modern and
                                                 responsive front-end of websites</p>
-                                                <h5>Duration: 2.5 Months</h5>
+                                                <h5>Duration: 1.5 Months</h5>
                                         </div>
-                                        <div class="courses-price"><span>RS <del> 24,000</del> 14,000
+                                        <div class="courses-price"><span>RS <del> 18,000</del> 12,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -279,11 +279,11 @@
 
 
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MERN STACK DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MERN Stack Development</a></h3>
                                             <p>A MERN stack developer is an expert in MongoDB, Express, React and Node.
                                                 They use these technologies to handle front-end, back-end and database
                                                 operations</p>
-                                                <h5>Duration: 2.5 Months</h5>
+                                                <h5>Duration: 2 Months</h5>
                                         </div>
                                         <div class="courses-price">
                                             <span>RS <del> 28,000</del> 18,000
@@ -302,11 +302,11 @@
                                             <img src="images/mean stack.png" class="img-responsive" alt="mean stack">
                                         </div>
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MEAN STACK DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">MEAN Stack Development</a></h3>
                                             <p>MEAN Stack Developer is a software engineer who is specialized in
                                                 developing modern websites web applications with mongoDB, Express JS,
                                                 Angular and Node JS</p>
-                                            <h5>Duration: 2.5 Months</h5>
+                                            <h5>Duration: 2 Months</h5>
                                         </div>
 
 
@@ -329,13 +329,13 @@
 
 
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">WORDPRESS DEVELOPMENT</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">WordPress Development</a></h3>
                                             <p>A WordPress developer is a professional who works with the basic infrastructure of the WordPress platform, to improve WordPress itself, or to create entirely new websites
                                             </p>
                                             <h5>Duration: 1.5 Months</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 18,000</del> 14,000
+                                            <span>RS <del> 18,000</del> 12,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -354,13 +354,13 @@
 
 
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">SEARCH ENGINE OPTIMIZATION</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">Search Engine Optimization</a></h3>
                                             <p>An SEO expert performs optimization across a search engine to ensure search results are relevant to create a positive user experience,lead volume and growing traffic
                                             </p>
-                                            <h5>Duration: 1.5 Months</h5>
+                                            <h5>Duration: 1 Month</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 18,000</del> 14,000
+                                            <span>RS <del> 16,000</del> 12,000
                                                 </span></del>
                                         </div>
                                     </div>
@@ -406,10 +406,10 @@
                                         <p>The purpose of this training will makes you capable to earn from your skills
                                             at home. This course will cover all the aspects of famous freelancing
                                             marketplaces.
-                                        <h5>Duration: 1.5 Months</h5>
+                                        <h5>Duration: 1 Month</h5>
                                         </p>
                                     </div>
-                                    <div class="courses-price"><span>RS <del>18,000 </del> 8,000
+                                    <div class="courses-price"><span>RS <del>14,000 </del> 8,000
                                             </span></del>
                                     </div>
                                 </div>
@@ -437,7 +437,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro8.jpg" class="img-responsive" alt="">
+                                    <img src="images/avatar-5.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>AWAIS KHAN</h4>
@@ -458,7 +458,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro5.jpg" class="img-responsive" alt="">
+                                    <img src="images/avatar-5.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>ALI HAMZA</h4>
@@ -479,7 +479,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro4.jpg" class="img-responsive" alt="">
+                                    <img src="images/avatar-5.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>UMAIR BILAL</h4>
@@ -498,7 +498,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/pro7.jpg" class="img-responsive" alt="">
+                                    <img src="images/avatar-4.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>Tehreem Fatima</h4>
