@@ -44,13 +44,13 @@
           <th>Total charges</th>
         </tr>
         <tr>
-          <td>1. Full stack development</td>
+          <td>1. Full Stack Development</td>
           <td>3 Months</td>
           <td>5,000</td>
           <td>25,000</td>
           <td>30,000</td>
         </tr>
-        <td>2. MERN stack development</td>
+        <td>2. MERN Stack Development</td>
         <td>2 Months</td>
         <td>2,000</td>
         <td>16,000</td>
@@ -71,7 +71,7 @@
           <td>12,000</td>
         </tr>
         <tr>
-            <td>5. WordPress development</td>
+            <td>5. WordPress Development</td>
             <td>1.5 Months</td>
             <td>2,000</td>
             <td>10,000</td>
