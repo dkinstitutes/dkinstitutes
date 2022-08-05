@@ -58,35 +58,35 @@
           <td>12,000</td>
         </tr>
         <tr>
-            <td>7. WordPress development</td>
+            <td>3. WordPress development</td>
             <td>1.5 Months</td>
             <td>2,000</td>
             <td>10,000</td>
             <td>12,000</td>
           </tr>
         <tr>
-          <td>3. MERN stack development</td>
+          <td>4. MERN stack development</td>
           <td>2 Months</td>
           <td>2,000</td>
           <td>16,000</td>
           <td>18,000</td>
         </tr>
         <tr>
-          <td>4. MEAN Stack Development</td>
+          <td>5. MEAN Stack Development</td>
           <td>2 Months</td>
           <td>2,000</td>
           <td>16,000</td>
           <td>18,000</td>
         </tr>
         <tr>
-          <td>5. Search Engine Optimization(SEO)</td>
+          <td>6. Search Engine Optimization(SEO)</td>
           <td>1 Month</td>
           <td>2,000</td>
           <td>6,000</td>
           <td>8,000</td>
         </tr>
         <tr>
-          <td>6. Freelancing</td>
+          <td>7. Freelancing</td>
           <td>1 Month</td>
           <td>2,000</td>
           <td>6,000</td>
