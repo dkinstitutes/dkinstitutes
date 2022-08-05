@@ -354,7 +354,7 @@
 
 
                                         <div class="courses-detail">
-                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">Search Engine Optimization</a></h3>
+                                            <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">SEO</a></h3>
                                             <p>An SEO expert performs optimization across a search engine to ensure search results are relevant to create a positive user experience,lead volume and growing traffic
                                             </p>
                                             <h5>Duration: 1 Month</h5>
@@ -402,7 +402,7 @@
 
 
                                     <div class="courses-detail">
-                                        <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">FREELANCING</a></h3>
+                                        <h3><a href="{{ url('https://forms.gle/rPna8dxrYcVqqQtBA') }}">Freelancing</a></h3>
                                         <p>The purpose of this training will makes you capable to earn from your skills
                                             at home. This course will cover all the aspects of famous freelancing
                                             marketplaces.
