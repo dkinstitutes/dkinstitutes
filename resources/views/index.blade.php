@@ -360,7 +360,7 @@
                                             <h5>Duration: 1 Month</h5>
                                         </div>
                                         <div class="courses-price">
-                                            <span>RS <del> 16,000</del> 12,000
+                                            <span>RS <del> 16,000</del> 8,000
                                                 </span></del>
                                         </div>
                                     </div>
