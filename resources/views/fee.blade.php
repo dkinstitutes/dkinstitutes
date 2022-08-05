@@ -59,10 +59,10 @@
         </tr>
         <tr>
           <td>3. MERN stack development</td>
-          <td>2.5 Months</td>
+          <td>2 Months</td>
           <td>2,000</td>
-          <td>14,000</td>
           <td>16,000</td>
+          <td>18,000</td>
         </tr>
         <tr>
           <td>4. MEAN Stack Development</td>
