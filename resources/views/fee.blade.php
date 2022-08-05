@@ -45,17 +45,17 @@
         </tr>
         <tr>
           <td>1. Full stack development</td>
-          <td>6 Months</td>
+          <td>3 Months</td>
           <td>5,000</td>
           <td>25,000</td>
           <td>30,000</td>
         </tr>
         <tr>
-          <td>2. Advance front end web develoment</td>
-          <td>2.5 Months</td>
+          <td>2. Advance Web Development</td>
+          <td>1.5 Months</td>
           <td>2,000</td>
+          <td>10,000</td>
           <td>12,000</td>
-          <td>14,000</td>
         </tr>
         <tr>
           <td>3. MERN stack development</td>
@@ -65,39 +65,32 @@
           <td>16,000</td>
         </tr>
         <tr>
-          <td>4. MEAN stack development</td>
-          <td>2.5 Months</td>
+          <td>4. MEAN Stack Development</td>
+          <td>2 Months</td>
           <td>2,000</td>
-          <td>14,000</td>
           <td>16,000</td>
-        </tr>
-        <tr>
-          <td>5. One month front end web development</td>
-          <td>1 Month</td>
-          <td>2,000</td>
-          <td>3,000</td>
-          <td>5,000</td>
+          <td>18,000</td>
         </tr>
         <tr>
           <td>6. Search Engine Optimization</td>
-          <td>1.5 Months</td>
+          <td>1 Months</td>
           <td>2,000</td>
+          <td>10,000</td>
           <td>12,000</td>
-          <td>14,000</td>
         </tr>
         <tr>
           <td>7. Freelancing</td>
-          <td>1.5 Months</td>
+          <td>1 Months</td>
           <td>2,000</td>
+          <td>6,000</td>
           <td>8,000</td>
-          <td>10,000</td>
         </tr>
         <tr>
           <td>8. WordPress development</td>
           <td>1.5 Months</td>
           <td>2,000</td>
+          <td>10,000</td>
           <td>12,000</td>
-          <td>14,000</td>
         </tr>
 
       </table>
