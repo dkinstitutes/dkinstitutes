@@ -498,7 +498,7 @@
                         <div class="col-md-4 col-sm-4">
                             <div class="item">
                                 <div class="tst-image">
-                                    <img src="images/avatar-4.png" class="img-responsive" alt="">
+                                    <img src="images/avatar-1.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
                                     <h4>Tehreem Fatima</h4>
