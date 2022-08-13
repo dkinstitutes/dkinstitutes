@@ -607,8 +607,8 @@
                                 <li><a href="{{ url('https://dilawarworld.000webhostapp.com/') }}"
                                         target="_blank">Portfolio</a></li>
                                 <li><a href="#about">About</a></li>
-                                <span style="color: #29ca8e;"><sup>*</sup>Please note - Thier is no refund policy but a
-                                    student have an option to change thier batch as per policy.</span>
+                                <span style="color: #29ca8e;"><sup>*</sup>Please note - There is no refund policy but a
+                                    student have an option to change their batch as per policy.</span>
                             </ul>
                         </div>
                     </div>
