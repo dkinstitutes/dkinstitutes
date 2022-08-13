@@ -501,7 +501,7 @@
                                     <img src="images/avatar-1.png" class="img-responsive" alt="">
                                 </div>
                                 <div class="tst-author">
-                                    <h4>Tehreem Fatima</h4>
+                                    <h4>TEHREEM FATIMA</h4>
                                     <span>Wordpress developer</span>
                                 </div>
                                 <p>I had the experience of doing wordpress development course from dk Institutes.
