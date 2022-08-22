@@ -576,7 +576,7 @@
                         <ul class="social-icon">
                             <li><a href="https://www.facebook.com/dkinstitutes1/" target="_blank"
                                     class="fa fa-facebook-square" attr="facebook icon"></a></li>
-                            <li><a href="https://youtube.com/channel/UCkb8f_0T6oriH5GtiN3d22A" target="_blank"
+                            <li><a href="https://youtube.com/channel/UC3AxbOCMFChpnuVcIOhnNfg" target="_blank"
                                     class="fa fa-youtube"></a></li>
                             <li><a href="https://www.instagram.com/dkinstitutes" target="_blank"
                                     class="fa fa-instagram"></a></li>
