@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>DK INSTITUTES - PROFESSIONAL IT TRAINING INSTITUTE</title>
+    <title>DK INSTITUTES - PAKISTAN'S BEST IT TRAINING INSTITUTE</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
