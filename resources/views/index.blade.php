@@ -79,7 +79,7 @@
                                 <h1>Welcome to DK INSTITUTES</h1>
                                 <h3>Our courses are designed to fit in your career supporting all-round with latest
                                     technologies of Information technology developement and designing.</h3>
-                                    <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Enroll Now!</a>
+                                    <a href="https://forms.gle/rPna8dxrYcVqqQtBA" class="section-btn btn btn-default smoothScroll">Apply Now!</a>
                             </div>
                         </div>
                     </div>
