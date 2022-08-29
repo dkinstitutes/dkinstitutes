@@ -126,7 +126,7 @@
                     <div class="feature-thumb">
                         <span>01</span>
                         <h3>Trending Courses</h3>
-                        <p>We are providing trending and best courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality Trainings with guaranteed results better for everyone! Be a Part of DK INSTITUTES and for better tommorow  </p>
+                        <p>We are providing trending and best courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality Trainings with guaranteed results better for everyone. Be a Part of DK INSTITUTES for better tommorow!  </p>
                     </div>
                 </div>
 
@@ -145,7 +145,7 @@
                         <span>03</span>
                         <h3>Best IT Training Institute</h3>
                         <p>DK INSTITUTES is Pakistan's Best IT Training Institute that enable students to reach their potential by providing High-Quality IT Trainings. We are the introducers to many IT
-                            trends, courses, and certifications in Pakistan.</p>
+                            trends, courses, and certifications in Pakistan!</p>
                     </div>
                 </div>
 
