@@ -120,13 +120,13 @@
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <h1>Why DK INSTITUTES?</h1>
+                    <h1>Why Choose DK INSTITUTES?</h1>
                 </div>
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>01</span>
                         <h3>Trending Courses</h3>
-                        <p>We are providing trending courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality IT Trainings to students who want to increase their potential. We are providing best courses with guaranteed results for everyone! </p>
+                        <p>We are providing trending and best courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality Trainings with guaranteed results better for everyone! Be a Part of DK INSTITUTES and for better tommorow  </p>
                     </div>
                 </div>
 
@@ -135,7 +135,7 @@
                         <span>02</span>
                         <h3>24/7 Support</h3>
                         <p>Our 24 hours support through WhatsApp groups and portals will enable students to learn in an efficient way.  They can ask
-                            questions and discuss thier problems in group-chat our instructors will be available for
+                            questions and discuss thier problems in group-chat. Our instructors will be available for
                             their help AnyWhere! AnyTime!</p>
                     </div>
                 </div>
