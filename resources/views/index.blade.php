@@ -126,19 +126,17 @@
                     <div class="feature-thumb">
                         <span>01</span>
                         <h3>Trending Courses</h3>
-                        <p>We are providing trending courses in information technology development and designing. Our
-                            aim is to work with international software compnanies to enhance the power of youngsters in
-                            this digital age</p>
+                        <p>We are providing trending courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality IT Trainings to students who want to increase their potential </p>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-4">
                     <div class="feature-thumb">
                         <span>02</span>
-                        <h3>24H Support</h3>
-                        <p>Our 24 hours WhatsApp support will enable students to learn in an efficient way they can ask
+                        <h3>24/7 Support</h3>
+                        <p>Our 24 hours WhatsApp support will enable students to learn in an efficient way.  They can ask
                             questions and discuss thier problems in group-chat our instructors will be available for
-                            thier help AnyWhere! AnyTime!</p>
+                            their help AnyWhere! AnyTime!</p>
                     </div>
                 </div>
 
@@ -146,8 +144,7 @@
                     <div class="feature-thumb">
                         <span>03</span>
                         <h3>Best IT Training Institute</h3>
-                        <p>DK INSTITUTES is one of the best IT Training Institute in Pakistan that comes up with amazing
-                            courses, trainings, jobs, events and much more. We are the introducers to many IT
+                        <p>DK INSTITUTES is Pakistan's Best IT Training Institute that enable students to reach their potential by providing High-Quality IT Trainings. We are the introducers to many IT
                             trends, courses, and certifications in Pakistan.</p>
                     </div>
                 </div>
