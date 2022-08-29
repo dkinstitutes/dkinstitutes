@@ -126,7 +126,7 @@
                     <div class="feature-thumb">
                         <span>01</span>
                         <h3>Trending Courses</h3>
-                        <p>We are providing trending and best courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality Trainings with guaranteed results better for everyone. Be a Part of DK INSTITUTES for better tommorow!  </p>
+                        <p>We are providing trending and best courses in IT development, designing and E-commerce. The motive of DK INSTITUTES is to provide High-Quality Trainings with guaranteed results better for everyone. Be a part of DK INSTITUTES for better tommorow!  </p>
                     </div>
                 </div>
 
